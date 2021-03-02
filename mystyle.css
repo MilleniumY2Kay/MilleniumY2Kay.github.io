@@ -1,5 +1,6 @@
 h1 {
 	color: coral;
+	text-shadow: 2px 2px 2px black;
 	text-align: center;
 	font-size: 500%;
 	margin-left: auto;
@@ -16,9 +17,10 @@ h1 {
 
 .heading2{
 	text-align: center;
+	text-shadow: 2px 2px 2px black;
 	font-size: 300%;
 	color: orange;
-	outline-color: blue;
+	outline-color: orange;
 	outline-style: outset;
 	outline-width: 10px;
 
