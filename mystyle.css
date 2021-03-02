@@ -1,6 +1,7 @@
 h1 {
 	color: coral;
 	background-color: lightskyblue;
+	background-image: linear-gradient(to top, blue, lightskyblue);
 	text-align: center;
 	font-size: 500%;
 
@@ -19,7 +20,7 @@ h1 {
 	outline-color: blue;
 	outline-style: outset;
 	outline-width: 10px;
-	
+
 	/*padding: 5%;*/
 }
 
