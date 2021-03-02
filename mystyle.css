@@ -1,0 +1,29 @@
+h1 {
+	color: coral;
+	background-color: lightskyblue;
+	text-align: center;
+	font-size: 500%;
+
+}
+b{
+	justify-content: space-around;
+}
+
+.heading2{
+	text-align: center;
+	font-size: 300%;
+	color: orange;
+}
+
+.image {
+	opacity: 1;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	backface-visibility: hidden;
+	width: 300px;
+	height: auto;
+	justify-content: center;
+
+
+}
