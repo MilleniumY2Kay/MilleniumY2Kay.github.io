@@ -3,7 +3,8 @@
 }
 
 .musicbody {
-	background-image: url(_music_assets/brickwall.jpg);
+	/*background-image: url(_music_assets/brickwall.jpg);*/
+	background-color: black;
 }
 
 img {
