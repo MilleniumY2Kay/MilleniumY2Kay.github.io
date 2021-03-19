@@ -1,0 +1,12 @@
+.musicheader {
+	color: blue;
+}
+
+.musicbody {
+	background-image: url(_music_assets/brickwall.jpg);
+}
+
+img {
+	width: 500px;
+	height: auto;
+}

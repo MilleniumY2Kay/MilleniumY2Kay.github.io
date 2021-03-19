@@ -1,0 +1,51 @@
+.mainheader {
+	color: white;
+
+	text-align: center;
+	font-size: 500%;
+	/*font-family: "Lucida Console", "Courier New", monospace;*/
+
+}
+
+
+.center {
+  /*margin: auto;
+  align-content: center;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  */
+}
+.mainbody {
+	/*background-image: url(_main_assets/purplegrid.jpg);*/
+	align-items: center;
+	background-color: black;
+	background-size: cover;
+
+}
+
+.mainp {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: white;
+	background-color: black;
+
+	font-size: 200%;
+	text-decoration: none;
+	text-align: center;
+
+	margin: auto;
+	width: 20%;
+
+	
+
+	display: inline-block;
+
+	border-style: double;
+	border-color: white;
+	padding: 15px 25px;
+
+}
